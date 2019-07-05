@@ -1,3 +1,7 @@
-https://raw.githubusercontent.com/satadriver/myipa/master/manifest.plist
+https://github.com/satadriver/ios20190604/raw/master/Tips.ipa
 
-itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/satadriver/myipa/master/manifest.plist
+https://raw.githubusercontent.com/satadriver/ios20190604/master/tips_small.png
+
+https://raw.githubusercontent.com/satadriver/ios20190604/master/tips.png
+
+itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/satadriver/ios20190604/master/manifest.plist
